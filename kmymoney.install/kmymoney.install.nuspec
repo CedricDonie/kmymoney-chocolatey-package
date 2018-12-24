@@ -11,7 +11,7 @@
     <title>kmymoney (Install)</title>
     <authors>KDE e.V.</authors>
     <projectUrl>https://kmymoney.org/</projectUrl>
-    <iconUrl>http://cdn.rawgit.com/__REPLACE_YOUR_REPO__/master/icons/kmymoney.png</iconUrl>
+    <iconUrl>http://cdn.rawgit.com/cedric000/kmymoney-chocolatey-package/master/icons/kmymoney.png</iconUrl>
     <copyright>2018</copyright>
     <licenseUrl>https://www.gnu.org/licenses/old-licenses/gpl-2.0.en.html</licenseUrl>
     <requireLicenseAcceptance>true</requireLicenseAcceptance>
